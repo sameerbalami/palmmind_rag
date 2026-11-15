@@ -1,0 +1,10 @@
+Palm Mind Technology is an AI company based in Kathmandu, Nepal.
+
+The company builds conversational AI products, including chatbots and voice assistants for businesses.
+Its flagship product is an AI customer support agent that answers questions in Nepali and English.
+
+Palm Mind runs a paid AI internship program. The internship lasts three months.
+Interns work on retrieval-augmented generation, LLM fine-tuning and backend APIs with FastAPI.
+Interns receive a monthly stipend and may receive a full-time offer after the internship.
+
+Office hours are Sunday to Friday, 9:30 AM to 5:30 PM. Interviews are held on weekdays between 10 AM and 4 PM.
